@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geolocalización</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-    <div class="container mt-5">
-        <h1 class="text-center">Geolocalización - Diego Ferreira</h1><br>
-        <button id="find-me" style="display: flex; margin: auto;" class="btn btn-primary">Mostrar mi ubicación</button><br />
-        <p id="status"></p>
-        <a id="map-link" target="_blank"></a>
-    </div>
-    </body>
-        <script src="script.js"></script>
-    </html>
+
